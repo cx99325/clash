@@ -10,3 +10,10 @@ DOMAIN-SUFFIX,us.edge.bamgrid.com
 DOMAIN-SUFFIX,assets.adobedtm.com
 DOMAIN-SUFFIX,streams.adobeprimetime.com
 DOMAIN-SUFFIX,sp.auth.adobe.com
+
+PROCESS-NAME,com.hulu.plus
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,huluim.com
+DOMAIN-SUFFIX,hulustream.com
+DOMAIN,cws-hulu.conviva.com
+DOMAIN,assetshuluimcom-a.akamaihd.net
