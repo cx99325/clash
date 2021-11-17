@@ -10,6 +10,10 @@ DOMAIN-SUFFIX,us.edge.bamgrid.com
 DOMAIN-SUFFIX,assets.adobedtm.com
 DOMAIN-SUFFIX,streams.adobeprimetime.com
 DOMAIN-SUFFIX,sp.auth.adobe.com
+DOMAIN,espn.com
+DOMAIN,espncdn.com
+DOMAIN,watchespn.com
+DOMAIN,espnplayer.com
 
 PROCESS-NAME,com.hulu.plus
 DOMAIN-SUFFIX,hulu.com
