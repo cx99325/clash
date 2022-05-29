@@ -55,3 +55,6 @@ DOMAIN-SUFFIX,hulustream.com
 DOMAIN,cws-hulu.conviva.com
 DOMAIN,assetshuluimcom-a.akamaihd.net
 DOMAIN,livemanifest-hulustream-com.akamaized.net
+
+DOMAIN-SUFFIX,f1tv.formula1.com
+DOMAIN-SUFFIX,f1prodlive.akamaized.net
