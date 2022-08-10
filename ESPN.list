@@ -58,3 +58,6 @@ DOMAIN,livemanifest-hulustream-com.akamaized.net
 
 DOMAIN-SUFFIX,f1tv.formula1.com
 DOMAIN-SUFFIX,f1prodlive.akamaized.net
+
+DOMAIN-SUFFIX,peacocktv.com
+USER-AGENT,PeacockMobile*
