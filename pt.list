@@ -1,82 +1,82 @@
 # 2xFree
-DOMAIN,pt.2xfree.org
+DOMAIN-SUFFIX-SUFFIX,pt.2xfree.org
 
 # Audiences(观众)
-DOMAIN,t.audiences.me
-DOMAIN,tracker.cinefiles.info
+DOMAIN-SUFFIX-SUFFIX,t.audiences.me
+DOMAIN-SUFFIX,tracker.cinefiles.info
 
 # CHDBit(彩虹岛)
-DOMAIN,chdbits.xyz
+DOMAIN-SUFFIX,chdbits.xyz
 
 # FileList
-DOMAIN,reactor.filelist.io
+DOMAIN-SUFFIX,reactor.filelist.io
 
 # GGPT
-DOMAIN,www.gamegamept.com
+DOMAIN-SUFFIX,www.gamegamept.com
 
 # HD Dolby(高清杜比)
-DOMAIN,t.hddolby.com
+DOMAIN-SUFFIX,t.hddolby.com
 
 # HDArea(杜比视界、好大)
-DOMAIN,tracker.hdarea.club
+DOMAIN-SUFFIX,tracker.hdarea.club
 
 # HDChina(瓷器)
-DOMAIN,tracker.hdchina.org
+DOMAIN-SUFFIX,tracker.hdchina.org
 
 # HDSky(天空)
-DOMAIN,tracker.hdsky.me
+DOMAIN-SUFFIX,tracker.hdsky.me
 
 # kamept(龟站)
-DOMAIN,kamept.com
+DOMAIN-SUFFIX,kamept.com
 
 # M-Team(馒头)
-DOMAIN,tracker.m-team.cc
-DOMAIN,tracker.m-team.io
+DOMAIN-SUFFIX,tracker.m-team.cc
+DOMAIN-SUFFIX,tracker.m-team.io
 
 # MDU(莫妮卡)
-DOMAIN,tracker.monikadesign.uk
+DOMAIN-SUFFIX,tracker.monikadesign.uk
 
 # OKPT
-DOMAIN,www.okpt.net
+DOMAIN-SUFFIX,www.okpt.net
 
 # OurBits(我堡)
-DOMAIN,ourbits.club
+DOMAIN-SUFFIX,ourbits.club
 
 # Panda(熊猫)
-DOMAIN,pandapt.net
+DOMAIN-SUFFIX,pandapt.net
 
 # PTer(猫站)
-DOMAIN,tracker.pterclub.com
+DOMAIN-SUFFIX,tracker.pterclub.com
 
 # Rousi(肉丝)
-DOMAIN,rousi.zip
+DOMAIN-SUFFIX,rousi.zip
 
 # SharkPT(鲨鱼)
-DOMAIN,tracker.sharkpt.net
+DOMAIN-SUFFIX,tracker.sharkpt.net
 
 # TTG(听听歌)
-DOMAIN,tracker.totheglory.im
+DOMAIN-SUFFIX,tracker.totheglory.im
 
 # ZHUQUE(朱雀)
-DOMAIN,tracker.zhuque.in
+DOMAIN-SUFFIX,tracker.zhuque.in
 
 # ZmPT(织梦)
-DOMAIN,zmpt.cc
+DOMAIN-SUFFIX,zmpt.cc
 
 # 影
-DOMAIN,tracker.shadowflow.org
+DOMAIN-SUFFIX,tracker.shadowflow.org
 
 # 憨憨
-DOMAIN,tracker.hhan.club
-DOMAIN,hhanclub.top
+DOMAIN-SUFFIX,tracker.hhan.club
+DOMAIN-SUFFIX,hhanclub.top
 
 # 打胶
-DOMAIN,dajiao.cyou
+DOMAIN-SUFFIX,dajiao.cyou
 
 # 红叶
-DOMAIN,tracker.leaves.red
-DOMAIN,tracker2.leaves.red
-DOMAIN,tracker3.leaves.red
+DOMAIN-SUFFIX,tracker.leaves.red
+DOMAIN-SUFFIX,tracker2.leaves.red
+DOMAIN-SUFFIX,tracker3.leaves.red
 
 # 铃音club
-DOMAIN,pt.soulvoice.club
+DOMAIN-SUFFIX,pt.soulvoice.club
