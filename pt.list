@@ -1,5 +1,82 @@
-DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,m-team.io
-DOMAIN-SUFFIX,t.audiences.me
-DOMAIN-SUFFIX,audiences.me
-DOMAIN-SUFFIX,tracker.cinefiles.info
+# 2xFree
+DOMAIN,pt.2xfree.org
+
+# Audiences(观众)
+DOMAIN,t.audiences.me
+DOMAIN,tracker.cinefiles.info
+
+# CHDBit(彩虹岛)
+DOMAIN,chdbits.xyz
+
+# FileList
+DOMAIN,reactor.filelist.io
+
+# GGPT
+DOMAIN,www.gamegamept.com
+
+# HD Dolby(高清杜比)
+DOMAIN,t.hddolby.com
+
+# HDArea(杜比视界、好大)
+DOMAIN,tracker.hdarea.club
+
+# HDChina(瓷器)
+DOMAIN,tracker.hdchina.org
+
+# HDSky(天空)
+DOMAIN,tracker.hdsky.me
+
+# kamept(龟站)
+DOMAIN,kamept.com
+
+# M-Team(馒头)
+DOMAIN,tracker.m-team.cc
+DOMAIN,tracker.m-team.io
+
+# MDU(莫妮卡)
+DOMAIN,tracker.monikadesign.uk
+
+# OKPT
+DOMAIN,www.okpt.net
+
+# OurBits(我堡)
+DOMAIN,ourbits.club
+
+# Panda(熊猫)
+DOMAIN,pandapt.net
+
+# PTer(猫站)
+DOMAIN,tracker.pterclub.com
+
+# Rousi(肉丝)
+DOMAIN,rousi.zip
+
+# SharkPT(鲨鱼)
+DOMAIN,tracker.sharkpt.net
+
+# TTG(听听歌)
+DOMAIN,tracker.totheglory.im
+
+# ZHUQUE(朱雀)
+DOMAIN,tracker.zhuque.in
+
+# ZmPT(织梦)
+DOMAIN,zmpt.cc
+
+# 影
+DOMAIN,tracker.shadowflow.org
+
+# 憨憨
+DOMAIN,tracker.hhan.club
+DOMAIN,hhanclub.top
+
+# 打胶
+DOMAIN,dajiao.cyou
+
+# 红叶
+DOMAIN,tracker.leaves.red
+DOMAIN,tracker2.leaves.red
+DOMAIN,tracker3.leaves.red
+
+# 铃音club
+DOMAIN,pt.soulvoice.club
