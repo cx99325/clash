@@ -1,90 +1,124 @@
-# 2xFree
-DOMAIN-SUFFIX,pt.2xfree.org
-
-# Audiences(观众)
-DOMAIN-SUFFIX,audiences.me
-DOMAIN-SUFFIX,tracker.cinefiles.info
-DOMAIN-KEYWORD,audiences
-DOMAIN-KEYWORD,cinefiles
+# 内容：PrivateTracker
+# 数量：122条
+DOMAIN-KEYWORD,announce
+DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
-
-# CHDBit(彩虹岛)
-DOMAIN-SUFFIX,chdbits.xyz
-
-# FileList
-DOMAIN-SUFFIX,reactor.filelist.io
-
-# GGPT
-DOMAIN-SUFFIX,www.gamegamept.com
-
-# HD Dolby(高清杜比)
-DOMAIN-SUFFIX,t.hddolby.com
-
-# HDArea(杜比视界、好大)
-DOMAIN-SUFFIX,tracker.hdarea.club
-
-# HDChina(瓷器)
-DOMAIN-SUFFIX,tracker.hdchina.org
-
-# HDSky(天空)
-DOMAIN-SUFFIX,tracker.hdsky.me
-
-# kamept(龟站)
-DOMAIN-SUFFIX,kamept.com
-
-# M-Team(馒头)
-DOMAIN-SUFFIX,tracker.m-team.cc
-DOMAIN-SUFFIX,tracker.m-team.io
-
-# MDU(莫妮卡)
-DOMAIN-SUFFIX,tracker.monikadesign.uk
-
-# OKPT
-DOMAIN-SUFFIX,www.okpt.net
-
-# OurBits(我堡)
-DOMAIN-SUFFIX,ourbits.club
-
-# Panda(熊猫)
-DOMAIN-SUFFIX,pandapt.net
-
-# PTer(猫站)
-DOMAIN-SUFFIX,tracker.pterclub.com
-
-# Rousi(肉丝)
-DOMAIN-SUFFIX,rousi.zip
-
-# SharkPT(鲨鱼)
-DOMAIN-SUFFIX,tracker.sharkpt.net
-
-# TTG(听听歌)
-DOMAIN-SUFFIX,tracker.totheglory.im
-
-# ZHUQUE(朱雀)
-DOMAIN-SUFFIX,tracker.zhuque.in
-
-# ZmPT(织梦)
-DOMAIN-SUFFIX,zmpt.cc
-
-# 影
-DOMAIN-SUFFIX,tracker.shadowflow.org
-
-# 憨憨
-DOMAIN-SUFFIX,tracker.hhan.club
+DOMAIN-SUFFIX,1ptba.com
+DOMAIN-SUFFIX,52pt.site
+DOMAIN-SUFFIX,aidoru-online.me
+DOMAIN-SUFFIX,alpharatio.cc
+DOMAIN-SUFFIX,animebytes.tv
+DOMAIN-SUFFIX,animetorrents.me
+DOMAIN-SUFFIX,anthelion.me
+DOMAIN-SUFFIX,asiancinema.me
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,avgv.cc
+DOMAIN-SUFFIX,avistaz.to
+DOMAIN-SUFFIX,awesome-hd.me
+DOMAIN-SUFFIX,beitai.pt
+DOMAIN-SUFFIX,beyond-hd.me
+DOMAIN-SUFFIX,bibliotik.me
+DOMAIN-SUFFIX,bittorrent.com
+DOMAIN-SUFFIX,blutopia.xyz
+DOMAIN-SUFFIX,broadcasthe.net
+DOMAIN-SUFFIX,bt.byr.cn
+DOMAIN-SUFFIX,bt.neu6.edu.cn
+DOMAIN-SUFFIX,btschool.club
+DOMAIN-SUFFIX,bwtorrents.tv
+DOMAIN-SUFFIX,byr.pt
+DOMAIN-SUFFIX,ccfbits.org
+DOMAIN-SUFFIX,cgpeers.com
+DOMAIN-SUFFIX,chdbits.co
+DOMAIN-SUFFIX,cinemageddon.net
+DOMAIN-SUFFIX,cinematik.net
+DOMAIN-SUFFIX,cinemaz.to
+DOMAIN-SUFFIX,classix-unlimited.co.uk
+DOMAIN-SUFFIX,concertos.live
+DOMAIN-SUFFIX,dicmusic.club
+DOMAIN-SUFFIX,discfan.net
+DOMAIN-SUFFIX,dxdhd.com
+DOMAIN-SUFFIX,eastgame.org
+DOMAIN-SUFFIX,empornium.me
+DOMAIN-SUFFIX,et8.org
+DOMAIN-SUFFIX,exoticaz.to
+DOMAIN-SUFFIX,extremlymtorrents.ws
+DOMAIN-SUFFIX,filelist.io
+DOMAIN-SUFFIX,gainbound.net
+DOMAIN-SUFFIX,gazellegames.net
+DOMAIN-SUFFIX,gfxpeers.net
+DOMAIN-SUFFIX,hd-space.org
+DOMAIN-SUFFIX,hd-torrents.org
+DOMAIN-SUFFIX,hd4.xyz
+DOMAIN-SUFFIX,hd4fans.org
+DOMAIN-SUFFIX,hdarea.co
+DOMAIN-SUFFIX,hdatmos.club
+DOMAIN-SUFFIX,hdbd.us
+DOMAIN-SUFFIX,hdbits.org
+DOMAIN-SUFFIX,hdchina.org
+DOMAIN-SUFFIX,hdcity.city
+DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,hdpost.top
+DOMAIN-SUFFIX,hdroute.org
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,hdstreet.club
+DOMAIN-SUFFIX,hdtime.org
+DOMAIN-SUFFIX,hdupt.com
+DOMAIN-SUFFIX,hdzone.me
 DOMAIN-SUFFIX,hhanclub.top
-
-# 打胶
-DOMAIN-SUFFIX,dajiao.cyou
-
-# 红叶
-DOMAIN-SUFFIX,tracker.leaves.red
-DOMAIN-SUFFIX,tracker2.leaves.red
-DOMAIN-SUFFIX,tracker3.leaves.red
-
-# 铃音club
-DOMAIN-SUFFIX,pt.soulvoice.club
-
-# 
+DOMAIN-SUFFIX,hitpt.com
+DOMAIN-SUFFIX,hitpt.org
+DOMAIN-SUFFIX,hudbt.hust.edu.cn
+DOMAIN-SUFFIX,icetorrent.org
+DOMAIN-SUFFIX,iptorrents.com
+DOMAIN-SUFFIX,j99.info
+DOMAIN-SUFFIX,joyhd.net
+DOMAIN-SUFFIX,jpopsuki.eu
+DOMAIN-SUFFIX,karagarga.in
+DOMAIN-SUFFIX,keepfrds.com
+DOMAIN-SUFFIX,landof.tv
+DOMAIN-SUFFIX,leaguehd.com
+DOMAIN-SUFFIX,lemonhd.org
+DOMAIN-SUFFIX,lztr.me
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,madsrevolution.net
+DOMAIN-SUFFIX,moecat.best
+DOMAIN-SUFFIX,morethan.tv
+DOMAIN-SUFFIX,msg.vg
+DOMAIN-SUFFIX,myanonamouse.net
+DOMAIN-SUFFIX,nanyangpt.com
+DOMAIN-SUFFIX,ncore.cc
+DOMAIN-SUFFIX,nebulance.io
+DOMAIN-SUFFIX,nicept.net
+DOMAIN-SUFFIX,npupt.com
+DOMAIN-SUFFIX,nwsuaf6.edu.cn
+DOMAIN-SUFFIX,open.cd
+DOMAIN-SUFFIX,oppaiti.me
+DOMAIN-SUFFIX,orpheus.network
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,passthepopcorn.me
+DOMAIN-SUFFIX,pornbits.net
+DOMAIN-SUFFIX,privatehd.to
+DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,ptsbao.club
+DOMAIN-SUFFIX,pttime.org
+DOMAIN-SUFFIX,pussytorrents.org
+DOMAIN-SUFFIX,redacted.ch
+DOMAIN-SUFFIX,sdbits.org
+DOMAIN-SUFFIX,sharkpt.net
+DOMAIN-SUFFIX,sjtu.edu.cn
+DOMAIN-SUFFIX,skyey2.com
+DOMAIN-SUFFIX,soulvoice.club
 DOMAIN-SUFFIX,springsunday.net
-DOMAIN,springsunday.net
-DOMAIN-KEYWORD,springsunday
+DOMAIN-SUFFIX,tju.pt
+DOMAIN-SUFFIX,tjupt.org
+DOMAIN-SUFFIX,torrentday.com
+DOMAIN-SUFFIX,torrentleech.org
+DOMAIN-SUFFIX,torrentseeds.org
+DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,trontv.com
+DOMAIN-SUFFIX,u2.dmhy.org
+DOMAIN-SUFFIX,uhdbits.org
+DOMAIN-SUFFIX,xauat6.edu.cn
