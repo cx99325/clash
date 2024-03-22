@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,pt.2xfree.org
 # Audiences(观众)
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,tracker.cinefiles.info
+DOMAIN-KEYWORD,audiences
+DOMAIN-KEYWORD,cinefiles
+DOMAIN-KEYWORD,tracker
 
 # CHDBit(彩虹岛)
 DOMAIN-SUFFIX,chdbits.xyz
@@ -83,4 +86,5 @@ DOMAIN-SUFFIX,pt.soulvoice.club
 
 # 
 DOMAIN-SUFFIX,springsunday.net
-
+DOMAIN,springsunday.net
+DOMAIN-KEYWORD,springsunday
