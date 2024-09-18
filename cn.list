@@ -1,10 +1,6 @@
 DOMAIN-SUFFIX,xigg.ml
 DST-PORT,22
-DOMAIN-SUFFIX,embydmit.sportemby.com
-DOMAIN-SUFFIX,dxemby.sportemby.com
-DOMAIN-SUFFIX,ydemby.sportemby.com
-DOMAIN-SUFFIX,ltemby.sportemby.com
-DOMAIN-SUFFIX,embyaws.cning.net
+
 
 DOMAIN,app.adjust.com
 DOMAIN,bdtj.tagtic.cn
